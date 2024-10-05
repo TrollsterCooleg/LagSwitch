@@ -1,0 +1,9 @@
+name: ALagSwitch
+version: '${version}'
+main: me.cooleg.lagswitch.LagSwitch
+api-version: '1.21'
+depend:
+  - CommandAPI
+permissions:
+  lagswitch.commands:
+    description: "Gives you access to commands related to the LagSwitch plugin."
